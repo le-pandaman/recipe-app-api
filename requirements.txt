@@ -1,0 +1,5 @@
+Django == 4.0.1
+djangorestframework == 3.13.1
+psycopg2-binary==2.9.6
+drf-spectacular==0.22.1
+# uwsgi==2.0.20
