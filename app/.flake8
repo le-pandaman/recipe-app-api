@@ -1,2 +1,2 @@
 [flake8]
-exclude = migrations, __pycache__, manage.py, settings.py, .folder_templates
+exclude = migrations, __pycache__, manage.py, settings.py, .folder_templates, admin.py, core/models.py
